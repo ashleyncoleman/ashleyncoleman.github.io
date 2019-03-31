@@ -6,7 +6,6 @@
   }
   body {
   background-image: url("https://cdn.pixabay.com/photo/2017/07/13/16/16/paper-2500942_960_720.jpg");
-  position: fixed; 
   }
   .main-content {
   
@@ -16,7 +15,8 @@
 # Example Blog Entry
 I have a little talkee. 
 
-A little image. ![Image](https://pics.me.me/very-cute-cat-30437404.png)
+A little image. 
+![Image](https://pics.me.me/very-cute-cat-30437404.png)
 <br>
 <br>
 <br>
