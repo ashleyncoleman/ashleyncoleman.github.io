@@ -1,8 +1,7 @@
 <style>
   #flyingUnicornCat {
-    position: absolute; 
-    margin-left: 57%; 
-    margin-top: -15%;
+    margin-left: 800px; 
+    margin-top: 150px;
     width: 250px; 
   }
   body {
