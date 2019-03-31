@@ -4,6 +4,9 @@
     margin-right: 30px; 
     margin-top: 30px; 
   }
+  .main-content {
+  background-image: url(""); 
+  }
   </style>
   <img id="flyingUnicornCat" src="https://media.giphy.com/media/u47vUoXTLfLCWP7bt4/giphy.gif">
 ## Welcome to GitHub Pages
