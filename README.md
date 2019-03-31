@@ -1,6 +1,6 @@
 <style>
   #flyingUnicornCat {
-    margin-left: 50%; 
+    margin-left: 35%; 
     margin-top: -20%;
     width: 250px; 
   }
