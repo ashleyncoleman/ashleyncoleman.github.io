@@ -2,10 +2,12 @@
   #flyingUnicornCat {
     position: absolute; 
     margin-left: 47%; 
-    margin-top: --25%; 
+    margin-top: -25%; 
   }
   body {
   background-image: url("https://media.giphy.com/media/ozf26DV8FqaCpkYt6n/giphy.gif");
+  }
+  .main-content {
   
   }
   </style>
