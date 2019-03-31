@@ -1,6 +1,6 @@
 <style>
   #flyingUnicornCat {
-    position: fixed: 
+    position: absolute: 
     margin-right: 30px; 
     margin-top: 30px; 
   }
