@@ -4,8 +4,9 @@
     margin-right: 30px; 
     margin-top: 30px; 
   }
-  .main-content {
-  background-image: url(""); 
+  body {
+  background-image: url("https://media.giphy.com/media/ozf26DV8FqaCpkYt6n/giphy.gif");
+  
   }
   </style>
   <img id="flyingUnicornCat" src="https://media.giphy.com/media/u47vUoXTLfLCWP7bt4/giphy.gif">
