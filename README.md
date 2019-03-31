@@ -14,8 +14,9 @@
   <img id="flyingUnicornCat" src="https://media.giphy.com/media/u47vUoXTLfLCWP7bt4/giphy.gif">
 # Example Blog Entry
 I have a little talkee. 
+I have a litel more talkee. 
+Oh, and here's an image.
 
-A little image. 
 ![Image](https://pics.me.me/very-cute-cat-30437404.png)
 <br>
 <br>
