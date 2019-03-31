@@ -5,14 +5,30 @@
     margin-top: -25%; 
   }
   body {
-  background-image: url("https://media.giphy.com/media/ozf26DV8FqaCpkYt6n/giphy.gif");
+  background-image: url("https://cdn.pixabay.com/photo/2017/07/13/16/16/paper-2500942_960_720.jpg");
   }
   .main-content {
   
   }
   </style>
   <img id="flyingUnicornCat" src="https://media.giphy.com/media/u47vUoXTLfLCWP7bt4/giphy.gif">
-## Welcome to GitHub Pages
+# Example Blog Entry
+I have a little talkee. 
+
+A little image. ![Image](https://pics.me.me/very-cute-cat-30437404.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img id="wizardCat" src="https://media.giphy.com/media/1AiIyXakd0nt9YVMhn/giphy.gif">
 <img id="cat" src="https://media.giphy.com/media/4QFd96yuoBJLLW5bcI/giphy.gif">
 <img id="lionCat" src="https://media.giphy.com/media/7XxDnudsyWihwsF9DA/giphy.gif">
