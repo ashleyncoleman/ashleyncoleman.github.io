@@ -1,9 +1,9 @@
 <style>
   #flyingUnicornCat {
     position: absolute; 
-    margin-left: 47%; 
-    margin-top: -25%;
-    width: 150px; 
+    margin-left: 57%; 
+    margin-top: -15%;
+    width: 250px; 
   }
   body {
   background-image: url("https://cdn.pixabay.com/photo/2017/07/13/16/16/paper-2500942_960_720.jpg");
