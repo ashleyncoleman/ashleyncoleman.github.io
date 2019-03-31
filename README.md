@@ -1,8 +1,8 @@
 <style>
   #flyingUnicornCat {
     position: absolute; 
-    margin-right: 30px; 
-    margin-top: 30px; 
+    margin-left: 30px; 
+    margin-top: -130px; 
   }
   body {
   background-image: url("https://media.giphy.com/media/ozf26DV8FqaCpkYt6n/giphy.gif");
