@@ -4,6 +4,7 @@
     margin-right: 30px; 
     margin-top: 30px; 
   }
+  </style>
 ## Welcome to GitHub Pages
 <img id="wizardCat" src="https://media.giphy.com/media/1AiIyXakd0nt9YVMhn/giphy.gif">
 <img id="cat" src="https://media.giphy.com/media/4QFd96yuoBJLLW5bcI/giphy.gif">
