@@ -5,12 +5,12 @@
     margin-top: 30px; 
   }
   </style>
+  <img id="flyingUnicornCat" src="https://media.giphy.com/media/u47vUoXTLfLCWP7bt4/giphy.gif">
 ## Welcome to GitHub Pages
 <img id="wizardCat" src="https://media.giphy.com/media/1AiIyXakd0nt9YVMhn/giphy.gif">
 <img id="cat" src="https://media.giphy.com/media/4QFd96yuoBJLLW5bcI/giphy.gif">
 <img id="lionCat" src="https://media.giphy.com/media/7XxDnudsyWihwsF9DA/giphy.gif">
 <img id="narwalCat" src="https://media.giphy.com/media/apifB0Yl0cfra6mERU/giphy.gif">
-<img id="flyingUnicornCat" src="https://media.giphy.com/media/u47vUoXTLfLCWP7bt4/giphy.gif">
 
 
 You can use the [editor on GitHub](https://github.com/ashleyncoleman/ashleyncoleman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
